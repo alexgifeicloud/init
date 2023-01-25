@@ -21,3 +21,4 @@ choco install totalcommander -y
 choco install imgburn -y
 choco install foobar2000 -y
 choco install rufus -y
+choco install etcher -y
